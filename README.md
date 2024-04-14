@@ -53,5 +53,3 @@ PUBLIC_INTERFACE=eth0
 ## License
 This project is licensed under the MIT License. Refer to the [LICENSE](LICENSE) file for further details.
 
-## Acknowledgments
-This project thrives on the collaborative efforts of the OpenStack community and leverages the flexibility provided by Vagrant.
