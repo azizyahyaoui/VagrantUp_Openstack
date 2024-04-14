@@ -49,6 +49,7 @@ PUBLIC_INTERFACE=eth0
 
 6. Execute `vagrant up` to initiate the setup procedure.
 7. Upon completion, access the OpenStack dashboard to begin exploration.
+> Open http://<HOST_IP>/dashboard/  in your browser to access Horizon.
 
 ## License
 This project is licensed under the MIT License. Refer to the [LICENSE](LICENSE) file for further details.
