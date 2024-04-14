@@ -48,7 +48,7 @@ PUBLIC_INTERFACE=eth0
 ```
 #### "Local.conf" configuration adjustments
 
-To customize your OpenStack installation, you can add plugins, and configure Neutron networking, Nova, Cinder, and other components by editing the `local.conf` file. This can be done through the script located at: `data/scripts/create_localconf.sh`
+To customize your OpenStack installation, you can add plugins like enabling "Magnum" and "Magnum-ui" for the Kubernetes cluster, and configure Neutron networking, Nova, Cinder, and other components by editing the `local.conf` file. This can be done through the script located at: `data/scripts/create_localconf.sh`
 
 
 6. Execute `vagrant up` to initiate the setup procedure.
