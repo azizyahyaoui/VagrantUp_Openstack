@@ -1,6 +1,6 @@
 # Running DevStack using Vagrant
 
-
+Running OpenStack cloud as a sandbox using vagrant and devstack all in one environment.
 
 
 
