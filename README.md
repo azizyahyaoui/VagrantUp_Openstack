@@ -46,7 +46,7 @@ PUBLIC_NETWORK_GATEWAY=
 Q_FLOATING_ALLOCATION_POOL=start=x.x.x.200,end=x.x.x.250
 PUBLIC_INTERFACE=eth0
 ```
-## "Local.conf" configuration adjustments
+#### "Local.conf" configuration adjustments
 
 To customize your OpenStack installation, you can add plugins, and configure Neutron networking, Nova, Cinder, and other components by editing the `local.conf` file. This can be done through the script located at: `data/scripts/create_localconf.sh`
 
